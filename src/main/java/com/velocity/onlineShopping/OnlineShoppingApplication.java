@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OnlineShoppingApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(OnlineShoppingApplication.class, args);
 		
-		System.out.println("This is main method");
 	}
 
 }
